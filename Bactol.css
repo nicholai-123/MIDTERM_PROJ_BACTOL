@@ -1,0 +1,19 @@
+body{
+    background-image: url(B.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: rgb(2, 94, 97);
+}
+p{
+    text-align: justify;
+    font-size: large;
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
